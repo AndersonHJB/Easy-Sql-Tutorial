@@ -57,6 +57,8 @@ imp system/password file=c:\oracle_test.dmp ignore=y FULL=Y
 链接：https://pan.baidu.com/s/1iBwwPfaaI1ext1qZ5B-Oxg 
 提取码：qg5y 
 
+此仓库下载即可：[https://github.com/AndersonHJB/Easy-Sql-Tutorial/releases](https://github.com/AndersonHJB/Easy-Sql-Tutorial/releases)
+
 下载文件后，按照上文第二部分的方法恢复到数据库中，也可以进入 MySQL 的 bin 目录下执行 MySQL 命令导入：
 
 例如：  `C:\Program Files\MariaDB 10.3\bin>mysql -uroot -proot  < C:\mysqltest.sql` 
